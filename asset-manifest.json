@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simplelogin-react/static/css/main.7a517673.chunk.css",
+    "main.js": "/simplelogin-react/static/js/main.a5be7fd9.chunk.js",
+    "main.js.map": "/simplelogin-react/static/js/main.a5be7fd9.chunk.js.map",
+    "runtime-main.js": "/simplelogin-react/static/js/runtime-main.737375cc.js",
+    "runtime-main.js.map": "/simplelogin-react/static/js/runtime-main.737375cc.js.map",
+    "static/js/2.cc247b6a.chunk.js": "/simplelogin-react/static/js/2.cc247b6a.chunk.js",
+    "static/js/2.cc247b6a.chunk.js.map": "/simplelogin-react/static/js/2.cc247b6a.chunk.js.map",
+    "index.html": "/simplelogin-react/index.html",
+    "precache-manifest.0dc9b79f41f4d51ddc13d85c91389a5b.js": "/simplelogin-react/precache-manifest.0dc9b79f41f4d51ddc13d85c91389a5b.js",
+    "service-worker.js": "/simplelogin-react/service-worker.js",
+    "static/css/main.7a517673.chunk.css.map": "/simplelogin-react/static/css/main.7a517673.chunk.css.map",
+    "static/js/2.cc247b6a.chunk.js.LICENSE.txt": "/simplelogin-react/static/js/2.cc247b6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.737375cc.js",
+    "static/js/2.cc247b6a.chunk.js",
+    "static/css/main.7a517673.chunk.css",
+    "static/js/main.a5be7fd9.chunk.js"
+  ]
+}
